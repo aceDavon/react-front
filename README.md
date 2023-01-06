@@ -13,15 +13,6 @@
 - Git, GitHub, Git workflow, Jest
 
 
-
-## Mockup 
-
-> Multi devices
-
-
-<img src="./src/img/mockup/devices.png" alt="mobile-image" width="455px" />
-
-
 ## Getting Started
 
 ### To have a copy of this project running on your local machine, follow these commands:
